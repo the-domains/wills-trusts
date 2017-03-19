@@ -1,0 +1,29 @@
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.5762752271257341
+  lightness: 0.07352648652158678
+  saturation: 0.6672701244242489
+  rhythmicContrast: 0.8414465822279453
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Wills & Trusts
+layout_spectrum: 0.1377766472287476
+typography_spectrum: 0.1596543847117573
+content: []
+title: Millhorn & Shanawany Law Firm
+description: Estate Planning Lawyers in The Villages
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/859dab9c-93f9-4509-b0ee-d24885245bdf.jpg
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6bb083-5909-4c26-bb95-52ebccaf49fe.jpg
